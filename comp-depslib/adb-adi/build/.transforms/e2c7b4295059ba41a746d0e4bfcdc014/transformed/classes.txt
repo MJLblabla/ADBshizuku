@@ -1,0 +1,16 @@
+rikka/shizuku/Shizuku$1.class
+rikka/shizuku/Shizuku$ListenerHolder.class
+rikka/shizuku/Shizuku$OnBinderDeadListener.class
+rikka/shizuku/Shizuku$OnBinderReceivedListener.class
+rikka/shizuku/Shizuku$OnRequestPermissionResultListener.class
+rikka/shizuku/Shizuku$UserServiceArgs.class
+rikka/shizuku/Shizuku.class
+rikka/shizuku/ShizukuBinderWrapper.class
+rikka/shizuku/ShizukuRemoteProcess$1.class
+rikka/shizuku/ShizukuRemoteProcess.class
+rikka/shizuku/ShizukuServiceConnection.class
+rikka/shizuku/ShizukuServiceConnections.class
+rikka/shizuku/ShizukuSystemProperties.class
+rikka/shizuku/SystemServiceHelper.class
+rikka/shizuku/api/R.class
+rikka/sui/Sui.class

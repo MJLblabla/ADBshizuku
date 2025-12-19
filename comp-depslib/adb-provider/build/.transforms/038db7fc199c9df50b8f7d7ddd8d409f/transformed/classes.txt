@@ -1,0 +1,5 @@
+moe/shizuku/api/BinderContainer$1.class
+moe/shizuku/api/BinderContainer.class
+rikka/shizuku/ShizukuProvider$1.class
+rikka/shizuku/ShizukuProvider.class
+rikka/shizuku/provider/R.class

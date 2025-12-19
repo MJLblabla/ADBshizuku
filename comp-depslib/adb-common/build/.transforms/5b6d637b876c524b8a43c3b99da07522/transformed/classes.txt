@@ -1,0 +1,3 @@
+moe/shizuku/common/util/BuildUtils.class
+moe/shizuku/common/util/OsUtils.class
+rikka/shizuku/common/R.class

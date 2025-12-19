@@ -1,0 +1,17 @@
+moe/shizuku/server/IRemoteProcess$Default.class
+moe/shizuku/server/IRemoteProcess$Stub$Proxy.class
+moe/shizuku/server/IRemoteProcess$Stub.class
+moe/shizuku/server/IRemoteProcess.class
+moe/shizuku/server/IShizukuApplication$Default.class
+moe/shizuku/server/IShizukuApplication$Stub$Proxy.class
+moe/shizuku/server/IShizukuApplication$Stub.class
+moe/shizuku/server/IShizukuApplication.class
+moe/shizuku/server/IShizukuService$Default.class
+moe/shizuku/server/IShizukuService$Stub$Proxy.class
+moe/shizuku/server/IShizukuService$Stub.class
+moe/shizuku/server/IShizukuService.class
+moe/shizuku/server/IShizukuServiceConnection$Default.class
+moe/shizuku/server/IShizukuServiceConnection$Stub$Proxy.class
+moe/shizuku/server/IShizukuServiceConnection$Stub.class
+moe/shizuku/server/IShizukuServiceConnection.class
+rikka/shizuku/aidl/R.class

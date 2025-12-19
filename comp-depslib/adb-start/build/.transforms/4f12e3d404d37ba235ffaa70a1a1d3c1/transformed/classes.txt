@@ -1,0 +1,13 @@
+moe/shizuku/starter/ServiceStarter.class
+moe/shizuku/starter/util/IContentProviderCompat.class
+rikka/shizuku/starter/R$attr.class
+rikka/shizuku/starter/R$color.class
+rikka/shizuku/starter/R$dimen.class
+rikka/shizuku/starter/R$drawable.class
+rikka/shizuku/starter/R$id.class
+rikka/shizuku/starter/R$integer.class
+rikka/shizuku/starter/R$layout.class
+rikka/shizuku/starter/R$string.class
+rikka/shizuku/starter/R$style.class
+rikka/shizuku/starter/R$styleable.class
+rikka/shizuku/starter/R.class

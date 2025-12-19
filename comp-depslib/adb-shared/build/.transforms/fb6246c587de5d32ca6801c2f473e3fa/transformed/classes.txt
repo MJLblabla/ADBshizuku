@@ -1,0 +1,3 @@
+rikka/shizuku/ShizukuApiConstants.class
+rikka/shizuku/shared/BuildConfig.class
+rikka/shizuku/shared/R.class

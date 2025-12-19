@@ -1,0 +1,9 @@
+rikka/rish/BuildConfig.class
+rikka/rish/FileDescriptors.class
+rikka/rish/R.class
+rikka/rish/Rish.class
+rikka/rish/RishConfig.class
+rikka/rish/RishConstants.class
+rikka/rish/RishHost.class
+rikka/rish/RishService.class
+rikka/rish/RishTerminal.class
